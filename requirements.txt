@@ -1,27 +1,7 @@
-https://home.openweathermap.org/api_keys
-
-API Key : abc16fc5d535595aa626da8ad048117a
-
-https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid={API key}
-
-https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=abc16fc5d535595aa626da8ad048117a
-
-
-https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
-
-https://api.openweathermap.org/data/2.5/weather?q=delhi&appid=abc16fc5d535595aa626da8ad048117a
-
-https://api.openweathermap.org/data/2.5/weather?q=delhi&units=metric&appid=abc16fc5d535595aa626da8ad048117a
-
-
-Flask== 1.1.2
+Flask==1.1.2
 gunicorn==20.0.4
 requests==2.24.0
 
-if you dont give version, pip will install latest version ..
-
-push my code to local inside a git ..
-local - github -- cloud
 
 
 
